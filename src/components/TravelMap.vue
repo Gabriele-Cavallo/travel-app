@@ -17,8 +17,8 @@ export default {
     return {
       map: null,
       markers: [],
-      markerDefaultPath: '/src/assets/img/marker.jpg',
-      markerRedPath: '/src/assets/img/marker-red.png',
+      markerDefaultPath: '/img/marker.jpg',
+      markerRedPath: '/img/marker-red.png',
       activeMarker: null // Marker attivo corrente
     };
   },
